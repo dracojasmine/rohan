@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: bar
+  labels:
+    environment-id: env_b0996557-78b7-468e-9245-64b2256f696d
+    project-id: project_2a145e9b-834b-48d9-a136-88d4efc90642
+    project-name: rohan
+    environment-name: prod
+    organization-id: org_01b50229-db34-43d4-8f3e-d1aeb683d900

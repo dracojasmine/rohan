@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: mar
+  labels:
+    environment-id: env_7e865d40-a84b-41e4-9f5f-85b5d1d11b63
+    project-id: project_2a145e9b-834b-48d9-a136-88d4efc90642
+    project-name: rohan
+    environment-name: staging
+    organization-id: org_01b50229-db34-43d4-8f3e-d1aeb683d900
